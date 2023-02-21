@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>WelcomeScreen.qml</file>
+        <file>GameScreen.qml</file>
+        <file>WinnerScreen.qml</file>
+        <file>VersionScreen.qml</file>
+    </qresource>
+</RCC>
