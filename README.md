@@ -1,6 +1,6 @@
 # WhatTheHex
 
-A simple game of guessing hexadecimal color values.
+A simple game written in QML of guessing hexadecimal color values.
 
 <img src="https://user-images.githubusercontent.com/75830878/220472406-909aaf8b-b9f7-479d-aa6f-ef2fcf398bdd.jpg" width="35%">
 
